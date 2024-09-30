@@ -1,6 +1,6 @@
-# JACKING 
+# SPAM 
 
-IG ACCOUNT JACKING SCRIPT by  ziddi shop @ziddi-shop ....
+TELEGRAM SPAM  SCRIPT by  ziddi shop @ziddi-shop ....
 
 
 
@@ -11,9 +11,9 @@ https://t.me/ziddi_shop
 
 Step 1 - Download This Zip File ...
 
-Step 2 -  Now Extract This File Then You Get ZIDDI SHOP ENC2.PY FILE ..
+Step 2 -  Now Extract This File Then You Get TELEGRAM SPAM ZIDDI.py FILE ..
 
-Step 3 - ZIDDI SHOP ENC2 file open in your REPLIT , PYDROID3 YA VISUAL STUDIO choice anyone ...
+Step 3 - TELEGRAM SPAM ZIDDI.py file open in your REPLIT , PYDROID3 YA VISUAL STUDIO choice anyone ...
 
 Step 4 - If You Choice Pydroid3 Ya Visual Studio first Off All You Need Some PiP So Please Install All Pip Pip File Link Below Mention !
 
