@@ -25,7 +25,7 @@ Step 4 - If You Choice Pydroid3 Ya Visual Studio first Off All You Need Some PiP
 
 
 # Demo : 
-https://github.com/ziddi-shop/ig-jack-file.git
+https://github.com/ziddi-shop/telegram-spam.git
 
 # For Any kind of Help 
 
